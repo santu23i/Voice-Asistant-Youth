@@ -32,10 +32,10 @@ A Python-based voice assistant that can perform tasks such as opening applicatio
 `cd voice-assistant`
 
    
-# Windows
+
 
 # Install dependencies
-`pip install -r requirements.tx` 
+`pip install -r requirements.txt` 
 
 ▶️ Usage
 
@@ -46,7 +46,6 @@ Run the following command:
 Then speak commands like:
 "What time is it?"
 "Open YouTube"
-"Search Python tutorials"
 
 
 📸 Screenshots / Demo 
@@ -62,7 +61,10 @@ Integrate with smart devices (IoT)
 Add AI/ML for better NLP
 
 
+
 🤝 Contributing
+
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
 
 
