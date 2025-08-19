@@ -27,20 +27,19 @@ A Python-based voice assistant that can perform tasks such as opening applicatio
 ## 🚀 Installation  
 
 # Clone the repository
-git clone https://github.com/your-username/voice-assistant.git
-cd voice-assistant
+` git clone https://github.com/your-username/voice-assistant.git`
+`cd voice-assistant`
 
-# (Optional) Create a virtual environment
-python3 -m venv venv
-venv\Scripts\activate     # Windows
+   
+# Windows
 
 # Install dependencies
-pip install -r requirements.tx ```
+`pip install -r requirements.tx` 
 
 ▶️ Usage
 
 Run the following command:
-  python voice_assistant.py
+  `python YOUTH.py `
 
   
 Then speak commands like:
