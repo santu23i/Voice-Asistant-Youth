@@ -29,7 +29,7 @@ A Python-based voice assistant that can perform tasks such as opening applicatio
 # Clone the repository
 ` git clone https://github.com/santu23i/Voice-Asistant-Youth.git`
 
-`cd voice-assistant`
+`cd voice-assistant-youth`
 
    
 
